@@ -1,6 +1,11 @@
+package Calculator;
+
 import java.util.Scanner;
 
 public class Calculator {
+    public Calculator(){
+
+    }
 
     private static final Scanner input = new Scanner(System.in);
 
@@ -9,7 +14,7 @@ public class Calculator {
     public static void main(String[] args){
         Calculator calc = new Calculator();
         System.out.println("----------------------------------------------------------------");
-        System.out.println("                       Scientific Calculator");
+        System.out.println("                       Scientific Calculator.Calculator");
         System.out.println("----------------------------------------------------------------");
         do {
         System.out.println("Choose an operation :");
