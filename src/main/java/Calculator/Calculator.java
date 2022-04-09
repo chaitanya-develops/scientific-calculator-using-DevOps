@@ -1,8 +1,13 @@
 package Calculator;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.Scanner;
 
 public class Calculator {
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
+
+
     public Calculator(){
 
     }
@@ -42,7 +47,10 @@ public class Calculator {
     }
 
     public double squareRoot(double number){
-        return Math.pow(number,0.5);
+        logger.info("[FACTORIAL] - " + number);
+        double result = Math.pow(number,0.5);
+        logger.info("[RESULT - FACTORIAL] - " + result);
+        return result;
     }
 
 
