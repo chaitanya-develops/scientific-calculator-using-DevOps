@@ -47,9 +47,8 @@ public class Calculator {
     }
 
     public double squareRoot(double number){
-        logger.info("[FACTORIAL] - " + number);
         double result = Math.pow(number,0.5);
-        logger.info("[RESULT - FACTORIAL] - " + result);
+        logger.info("[SQRT] - INPUT : "+ number + "- OUTPUT : " + result);
         return result;
     }
 
