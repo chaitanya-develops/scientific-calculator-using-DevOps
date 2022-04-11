@@ -30,3 +30,7 @@
 11/Apr/2022:18:03:45 662 [Calculator.java] [INFO] Calculator.Calculator - [SQRT] - INPUT : 16.0 - OUTPUT : 4.0
 11/Apr/2022:18:03:45 664 [Calculator.java] [INFO] Calculator.Calculator - [SQRT] - INPUT : 125.0 - OUTPUT : 11.180339887498949
 11/Apr/2022:18:03:45 666 [Calculator.java] [INFO] Calculator.Calculator - [SQRT] - INPUT : 81.0 - OUTPUT : 9.0
+11/Apr/2022:18:27:12 561 [Calculator.java] [INFO] Calculator.Calculator - [SQRT] - INPUT : 25.0 - OUTPUT : 5.0
+11/Apr/2022:18:27:12 568 [Calculator.java] [INFO] Calculator.Calculator - [SQRT] - INPUT : 16.0 - OUTPUT : 4.0
+11/Apr/2022:18:27:12 570 [Calculator.java] [INFO] Calculator.Calculator - [SQRT] - INPUT : 125.0 - OUTPUT : 11.180339887498949
+11/Apr/2022:18:27:12 571 [Calculator.java] [INFO] Calculator.Calculator - [SQRT] - INPUT : 81.0 - OUTPUT : 9.0
