@@ -48,7 +48,7 @@ public class Calculator {
 
     public double squareRoot(double number){
         double result = Math.pow(number,0.5);
-        logger.info("[SQRT] - INPUT : "+ number + "- OUTPUT : " + result);
+        logger.info("[SQRT] - INPUT : "+ number + " - OUTPUT : " + result);
         return result;
     }
 
