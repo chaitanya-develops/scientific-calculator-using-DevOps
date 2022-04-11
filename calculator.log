@@ -3,3 +3,4 @@
 2022-04-11 12:12:01.104 [main] INFO  Calculator.Calculator - [FACTORIAL] - 36.0
 2022-04-11 12:12:01.105 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 6.0
 11/Apr/2022:12:26:31 276 [main] INFO  Calculator.Calculator - [SQRT] - INPUT : 81.0- OUTPUT : 9.0
+11/Apr/2022:12:32:07 693 [Calculator.java] INFO  Calculator.Calculator - [SQRT] - INPUT : 144.0 - OUTPUT : 12.0
