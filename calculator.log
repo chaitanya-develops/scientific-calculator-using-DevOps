@@ -1,0 +1,4 @@
+2022-04-11 12:11:44.547 [main] INFO  Calculator.Calculator - [FACTORIAL] - 3456.0
+2022-04-11 12:11:44.555 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 58.787753826796276
+2022-04-11 12:12:01.104 [main] INFO  Calculator.Calculator - [FACTORIAL] - 36.0
+2022-04-11 12:12:01.105 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 6.0
