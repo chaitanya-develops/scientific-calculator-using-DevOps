@@ -1,3 +1,6 @@
 
 localhost ansible_user=shells
 
+[ubuntu18]
+192.168.56.101 ansible_user=shells
+
